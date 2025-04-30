@@ -1,0 +1,14 @@
+torch
+transformers
+peft
+accelerate
+scipy
+scikit-learn
+langchain
+langchain-community
+langchain-huggingface
+faiss-cpu
+sentence-transformers
+spacy
+gradio
+bitsandbytes
